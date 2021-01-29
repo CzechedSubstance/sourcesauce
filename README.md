@@ -1,6 +1,6 @@
 # source-sauce
 
-Custom Instagram Link tree created in [Svelte](svelte.dev).
+Custom Instagram Link tree created in [Svelte](https://svelte.dev).
 
 Thanks to [@Conduitry](https://github.com/Conduitry) and his [deploy.sh](https://github.com/Conduitry/sapper-gh-pages) it's easy to deploy your first custom link tree instantly!
 
