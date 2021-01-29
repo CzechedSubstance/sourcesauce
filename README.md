@@ -6,10 +6,10 @@ Thanks to [@Conduitry](https://github.com/Conduitry) and his [deploy.sh](https:/
 
 ## Why GitHub Pages
 
-Perectly suits our usage, where we can add anything we want use it as SSOT on IG profile in bio and it's for free.
+Perfectly suits our usage, where we can add anything we want. USing it as SSOT on IG profile in bio and it's for free.
 
 ## Roadmap
 
-- add post related blocks to allow 
+- add post related blocks to allow fact checikng and source linking (referrences on articles and studies mentioned in post)
 
-- allow multiple links on sigle post (referrences on articles and studies mentioned in post)
+- allow multiple links on sigle post
