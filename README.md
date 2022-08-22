@@ -1,15 +1,38 @@
-# source-sauce
+# create-svelte
 
-Custom Instagram Link tree created in [Svelte](https://svelte.dev).
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-Thanks to [@Conduitry](https://github.com/Conduitry) and his [deploy.sh](https://github.com/Conduitry/sapper-gh-pages) it's easy to deploy your first custom link tree instantly!
+## Creating a project
 
-## Why GitHub Pages
+If you're seeing this, you've probably already done this step. Congrats!
 
-Perfectly suits our usage, where we can add anything we want. USing it as SSOT on IG profile in bio and it's for free.
+```bash
+# create a new project in the current directory
+npm create svelte@latest
 
-## Roadmap
+# create a new project in my-app
+npm create svelte@latest my-app
+```
 
-- add post related blocks to allow fact checikng and source linking (referrences on articles and studies mentioned in post)
+## Developing
 
-- allow multiple links on sigle post
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+
+```bash
+npm run dev
+
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
+```
+
+## Building
+
+To create a production version of your app:
+
+```bash
+npm run build
+```
+
+You can preview the production build with `npm run preview`.
+
+> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
